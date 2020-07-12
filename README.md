@@ -13,7 +13,7 @@ const martins20 = {
   code: ['Javascript', 'HTML', 'CSS'],
   favoriteLanguage: ['Javascript'],
   learning: ['Typescript'],
-  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker', 'Linux'],
+  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker', 'PostgresQL', 'Linux'],
 }
 ```
 
