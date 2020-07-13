@@ -2,7 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 
-<p><em><b><a href="https://martins20.github.io/Curriculum/">Fulstack Developer </a></br></b></em></p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=martins20.martins20)
+<p><em><b><a href="https://martins20.github.io/Curriculum/">Fulstack Developer </a></br></b></em></p> 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=martins20&show_icons=true&hide_border=true" alt="martins20's Github Stats">
@@ -17,6 +18,5 @@ const martins20 = {
 }
 ```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martins20.martins20)
 
 
