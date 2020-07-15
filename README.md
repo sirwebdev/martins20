@@ -1,8 +1,7 @@
 # Martins20 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martins20.martins20)
 <p><em><b><a href="https://martins20.github.io/Curriculum/">Fullstack Developer </a></br></b></em></p> 
 
 
