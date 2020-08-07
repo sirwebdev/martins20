@@ -10,9 +10,8 @@
 
 ```javascript
 const martins20 = {
-  code: ['Javascript', 'HTML', 'CSS'],
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   favoriteLanguage: ['Javascript'],
-  learning: ['Typescript'],
   tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker', 'PostgresQL', 'Linux'],
 }
 ```
