@@ -11,7 +11,7 @@
 ```javascript
 const martins20 = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  favoriteLanguage: ['Javascript'],
+  favoriteLanguage: ['Typescript'],
   tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Docker', 'PostgresQL', 'Linux'],
 }
 ```
