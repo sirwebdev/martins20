@@ -12,8 +12,8 @@
 const martins20 = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   favoriteLanguage: ['Typescript'],
-  tools: ['React', 'Redux', 'Node', 'Php', 'Docker', 'PostgresQL', 'MySql', 'Jest', 'Linux'],
-  skills: ['DDD', 'TDD', 'SCRUM', 'SOLID']
+  tools: ['React', 'Redux', 'Node', 'Php', 'Docker', 'PostgresQL', 'MySql', 'Jest', 'Linux', 'Kubernetes', 'Rancher'],
+  skills: ['DDD', 'TDD', 'SCRUM', 'SOLID', 'AWS', 'DevOps']
 }
 ```
 
