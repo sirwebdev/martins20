@@ -7,7 +7,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Paulo César, Computer Engineer & Software Developer from Stone
+  Hi, I'm Paulo César, Computer Engineer & Software Developer from Brasilprev
   <br>
   <br>
   🎓 I graduated from Rocketseat
