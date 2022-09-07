@@ -4,19 +4,24 @@
 
 <a href="https://www.linkedin.com/in/martins20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://open.spotify.com/user/freelord860?si=c241ca706fde437a" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.twitch.tv/mmartinss20" target="_blank"><img src="https://img.shields.io/badge/mmartinss20-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://www.youtube.com/channel/UClwZ7fTsMgPxqIkCJJ3Ys7Q" target="_blank"><img src="https://img.shields.io/badge/martins20-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="Twitch"></a>
 </h5>
 <br>
 <p align="center">
   Hi, I'm Paulo César, Computer Engineer & Software Developer from Brasilprev
   <br>
   <br>
-  🎓 I graduated from Rocketseat
+  🎓 I'm currently in Compute Science College on 6º Period
+  <br>
+  <br>
+  ❓ I'm Live Coder
   <br>
   🧑🏻‍💻  I’m co-founder at <a href="https://github.com/Deeplin-Official">Deeplin</a> 
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently working on Typescript
+  🔬 I’m currently working with Typescript, Golang and Python
   <br>
   📚 I’m currently learning how to build clean and scalable softwares with Clean Architecture, DDD and TDD
   <br>
