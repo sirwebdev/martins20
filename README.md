@@ -17,7 +17,7 @@
   <br>
   ❓ I'm Live Coder
   <br>
-  🧑🏻‍💻  I’m co-founder at <a href="https://github.com/Deeplin-Official">Deeplin</a> 
+  🧑🏻‍💻  I’m founder at <a href="https://www.storedoke.com">Storedoke</a> 
   <br>
   💻 I love writing code and learn anythings about it
   <br>
