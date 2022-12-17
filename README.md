@@ -1,11 +1,13 @@
 <h2 align="center">Hi there!, I'm Paulo 🖖</h2>
 <h5 align="center">
- <i>Follow me:</i><br>
+<i>Follow me:</i>
+<br>
 
 <a href="https://www.linkedin.com/in/martins20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://open.spotify.com/user/freelord860?si=c241ca706fde437a" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://www.twitch.tv/mmartinss20" target="_blank"><img src="https://img.shields.io/badge/mmartinss20-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://www.youtube.com/channel/UClwZ7fTsMgPxqIkCJJ3Ys7Q" target="_blank"><img src="https://img.shields.io/badge/martins20-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="Twitch"></a>
+
 </h5>
 <br>
 <p align="center">
@@ -30,6 +32,8 @@
 
 <br />
 
-<section>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins20&layout=compact&theme=dark"></a></section>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=martins20&show_icons=true&theme=dark"></a>
+<section align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" align="center"><img width="fit-content" height="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins20&layout=compact&theme=dark"></a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" align="center"><img width="fit-content" height="fit-content" src="https://github-readme-stats.vercel.app/api?username=martins20&show_icons=true&theme=dark"></a>
+<section/>
